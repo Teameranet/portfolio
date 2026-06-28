@@ -27,7 +27,7 @@ export const Footer = ({ currentPage }: FooterProps) => {
         </div>
 
         <p className="text-xs text-brand-muted tracking-widest uppercase">
-          Designed with <span className="text-red-400">♥</span>by © Ashwinkuma Chavan 2026.
+          Designed with <span className="text-red-400">♥</span> by Ashwinkuma Chavan 2026 ©.
         </p>
       </div>
     </footer>
