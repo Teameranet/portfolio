@@ -1,0 +1,85 @@
+ASHWINKUMAR CHAVAN
+UI/UX Designer & Developer
+Pune, India | Open to Remote & Full-Time Roles
+ashwinchavan39@gmail.com | +91 8180994970
+LinkedIn | Portfolio
+
+------------------------------------------------------------
+PROFESSIONAL SUMMARY
+------------------------------------------------------------
+UI/UX Designer and Developer with hands-on experience shipping mobile and web products from research to release. I bridge design and code to build intuitive, accessible interfaces and scalable design systems. At Newprinthub, my work has lifted customer retention by 25% and helped the team ship 30% faster against sprint estimates. I care about measurable outcomes, clean information architecture, and experiences that feel simple for real people.
+
+------------------------------------------------------------
+CORE COMPETENCIES
+------------------------------------------------------------
+UX & Research: User Research, Design Thinking, User Journey Mapping, Interaction Design, Usability Testing, A/B Testing, Information Architecture, Accessibility (WCAG), End-to-End Product Design
+
+Design Systems: Component Libraries, Scalable Figma Systems, Design Documentation, Design-to-Engineering Handoff
+
+Design Tools: Figma, Sketch, Adobe Illustrator, Magicpath, Miro
+
+AI & Prototyping: Lovable, Figma Make, Perplexity, Claude, Antigravity AI IDE
+
+Analytics: Amplitude, Qualtrics, UserTesting
+
+Development: React.js, JavaScript, HTML, Tailwind CSS, GitHub
+
+------------------------------------------------------------
+PROFESSIONAL EXPERIENCE
+------------------------------------------------------------
+
+UI/UX Designer
+Newprinthub.com | Pune, India
+May 2024 - Present
+
+- Redesigned the client onboarding flow using design thinking and usability testing, increasing customer retention by 25%.
+- Streamlined UI components and rebuilt navigation paths, improving app user retention by 20%.
+- Built a scalable Figma component library that removed back-and-forth between design and engineering, helping the team ship 30% faster than sprint estimates.
+- Lead end-to-end design for PrintHub, a mobile-first printing platform serving customers across India.
+
+UI/UX Developer
+Inrowmek.com | Pune, India
+October 2023 - April 2024
+
+- Authored design documentation and a reusable Figma design system, cutting design-to-development handoff time by 40%.
+- Designed responsive, WCAG-compliant UI components for mobile and web using Sketch and Figma.
+- Built intuitive user interfaces for mobile and web applications from concept through developer hand-off.
+- Created marketing assets including social media graphics and Adobe Illustrator brand illustrations.
+
+------------------------------------------------------------
+KEY PROJECTS
+------------------------------------------------------------
+
+Teamera.net - Collaborative Startup Ecosystem
+Role: Full-Stack Designer & Developer | Timeline: 2025 - 2026
+- Designed and developed a full-stack web app that helps founders, students, and professionals form startup teams, apply for roles, and collaborate in shared workspaces.
+- Architected a 3-tier system using React, Node.js, Express, MongoDB Atlas, JWT authentication, and Socket.io for real-time communication.
+- Shipped a role-based application system with a six-state lifecycle, profile portfolios, project discovery, and team workspaces.
+
+PrintHub - Mobile Printing Platform
+Role: UI/UX Designer | Timeline: May 2024 - Present
+- Redesigned the full customer journey from document upload to delivery tracking, reducing drop-off and improving task completion.
+- Built a modern design system in Figma with a Poppins type scale, a purple-led color palette, and a library of hand-crafted SVG illustrations.
+
+Walkeels.com - Business Website
+Role: UI/UX Designer & Frontend Developer | Timeline: 2023
+- Designed and developed a responsive web-page business website focused on clarity, lead generation, and brand trust.
+- Delivered a mobile-first experience with a consistent visual system, smooth navigation, and an SEO-friendly structure.
+
+------------------------------------------------------------
+EDUCATION
+------------------------------------------------------------
+
+Bachelor of Computer Applications (BCA)
+Tilak Maharashtra Vidyapeeth | August 2022 - June 2026
+Relevant Coursework: Computer Fundamentals, Operating Systems and Networking, Business Application Models, Database Management Systems.
+
+Higher Secondary Certificate - Information Technology
+ASM (CSIT) College | August 2021 - March 2022
+Relevant Coursework: Information Technology, Planning and Organisation Management, Business Models, Enterprise Resource Systems.
+
+------------------------------------------------------------
+PROCESS
+------------------------------------------------------------
+Discover & Research - Strategy & Design - Build & Prototype - Launch & Refine
+A user-centered, data-informed approach grounded in research, scalable systems, and measurable outcomes.

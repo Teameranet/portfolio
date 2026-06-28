@@ -1,0 +1,54 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Playfair Display", serif;
+  --font-sans: "Inter", sans-serif;
+  
+  --color-brand-bg: #f8faff;
+  --color-brand-text: #1a1a1a;
+  --color-brand-muted: #666666;
+}
+
+@layer base {
+  body {
+    @apply font-sans bg-brand-bg text-brand-text antialiased;
+    scroll-behavior: smooth;
+    text-rendering: optimizeLegibility;
+  }
+
+  ::selection {
+    @apply bg-purple-100 text-purple-900;
+  }
+}
+
+@layer components {
+  .gradient-bg {
+    background: 
+      radial-gradient(at 0% 0%, hsla(220, 100%, 98%, 1) 0, transparent 50%),
+      radial-gradient(at 100% 0%, hsla(260, 100%, 98%, 1) 0, transparent 50%),
+      radial-gradient(at 100% 100%, hsla(210, 100%, 98%, 1) 0, transparent 50%),
+      radial-gradient(at 0% 100%, hsla(280, 100%, 98%, 1) 0, transparent 50%),
+      #ffffff;
+  }
+
+  .text-editorial {
+    @apply font-serif tracking-tighter;
+  }
+
+  .nav-link {
+    @apply hover:text-brand-muted transition-colors cursor-pointer relative py-1 uppercase font-bold tracking-widest text-[11px];
+  }
+
+  .nav-link-active::after {
+    @apply content-[''] absolute bottom-0 left-0 right-0 h-[1.5px] bg-brand-text;
+  }
+
+  .section-container {
+    @apply max-w-7xl mx-auto px-6 md:px-12;
+  }
+}
+
+@layer utilities {
+  .scrollbar-hide::-webkit-scrollbar { display: none; }
+  .scrollbar-hide { -ms-overflow-style: none; scrollbar-width: none; }
+}

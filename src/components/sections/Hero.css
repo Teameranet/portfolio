@@ -1,0 +1,27 @@
+@reference "../../index.css";
+
+@layer components {
+  .hero-container {
+    @apply mb-48;
+  }
+
+  .status-tag-container {
+    @apply flex flex-wrap gap-3 mb-8;
+  }
+
+  .status-tag-active {
+    @apply bg-green-50 text-green-700 text-[10px] font-bold tracking-widest uppercase px-3 py-1 rounded-full border border-green-100 flex items-center gap-1.5;
+  }
+
+  .role-label-container {
+    @apply flex flex-col md:flex-row md:items-center gap-6 text-brand-muted uppercase tracking-[0.2em] text-[10px] md:text-xs font-bold;
+  }
+
+  .role-label-item {
+    @apply bg-white/50 backdrop-blur-sm px-4 py-2 rounded-full border border-white/50;
+  }
+
+  .welcome-badge {
+    @apply inline-flex items-center gap-2 px-4 py-1.5 mb-6 bg-gray-50 border border-gray-200/50 rounded-full text-[14px] font-medium text-gray-500 tracking-wide;
+  }
+}

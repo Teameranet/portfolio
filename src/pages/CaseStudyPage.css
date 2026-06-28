@@ -1,0 +1,63 @@
+@reference "../index.css";
+
+@layer components {
+  .casestudy-container {
+    @apply pt-10;
+  }
+
+  .casestudy-back-btn {
+    @apply mb-12 inline-flex items-center gap-2 text-xs font-bold tracking-[0.2em] text-brand-muted hover:text-brand-text transition-colors cursor-pointer uppercase;
+  }
+
+  .casestudy-hero {
+    @apply mb-24;
+  }
+
+  .casestudy-hero-grid {
+    @apply grid grid-cols-1 lg:grid-cols-12 gap-12 items-end mb-16;
+  }
+
+  .casestudy-banner-wrapper {
+    @apply aspect-[16/7] w-full overflow-hidden rounded-[40px] shadow-2xl cursor-none;
+  }
+
+  .casestudy-content-grid {
+    @apply grid grid-cols-1 lg:grid-cols-12 gap-24;
+  }
+
+  .casestudy-sidebar {
+    @apply lg:col-span-4;
+  }
+
+  .casestudy-sidebar-sticky {
+    @apply sticky top-32 space-y-12;
+  }
+
+  .casestudy-main-content {
+    @apply lg:col-span-8 space-y-32;
+  }
+
+  .casestudy-section-title {
+    @apply font-serif text-4xl mb-8;
+  }
+
+  .casestudy-body-text {
+    @apply text-xl text-brand-muted leading-relaxed;
+  }
+
+  .casestudy-card {
+    @apply p-8 bg-white/30 backdrop-blur-sm rounded-3xl border border-brand-text/5;
+  }
+
+  .casestudy-dark-card {
+    @apply p-8 bg-gray-900 text-white rounded-[32px] shadow-2xl border border-white/10;
+  }
+
+  .tech-spec-item {
+    @apply pb-4 border-b border-brand-text/10;
+  }
+
+  .tech-spec-label {
+    @apply text-sm font-bold tracking-widest uppercase mb-6;
+  }
+}
