@@ -20,7 +20,7 @@
     }
   ],
   "rewrites": [
-    { "source": "/download-resume", "destination": "/Ashwin UI-UX Designer & Developer.pdf" },
+    { "source": "/download-resume", "destination": "/Ashwin%20UI-UX%20Designer%20%26%20Developer.pdf" },
     { "source": "/(.*)", "destination": "/index.html" }
   ]
 }

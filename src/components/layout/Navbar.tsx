@@ -27,18 +27,16 @@ export const Navbar = ({
 }: NavbarProps) => {
   const { font, animating } = useLogoFontCycle(2500);
   const handleDownloadResume = () => {
-    // Open PDF viewer page in new tab (shows sparkle favicon + correct title)
+    // Open the PDF viewer page in a new tab
     window.open('/resume.html', '_blank');
 
-    // Trigger download — server sets Content-Disposition: attachment with correct filename
-    setTimeout(() => {
-      const link = document.createElement('a');
-      link.href = '/download-resume';
-      link.download = 'Ashwin UI-UX Designer & Developer.pdf';
-      document.body.appendChild(link);
-      link.click();
-      document.body.removeChild(link);
-    }, 300);
+    // Trigger download — Vercel serves this with Content-Disposition: attachment
+    // so the browser downloads it with the correct filename
+    const link = document.createElement('a');
+    link.href = '/download-resume';
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
   };
 
   return (
