@@ -40,7 +40,7 @@ const skillCategories: SkillCategory[] = [
   },
   {
     title: "Research & Analytics",
-    skills: ["Amplitude", "Qualtrics", "User Testing", "Perplexity", "Claude"]
+    skills: ["Amplitude", "User Testing", "Perplexity", "Claude"]
   },
   {
     title: "Design Tools",

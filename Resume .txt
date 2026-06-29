@@ -20,7 +20,7 @@ Design Tools: Figma, Sketch, Adobe Illustrator, Magicpath, Miro
 
 AI & Prototyping: Lovable, Figma Make, Perplexity, Claude, Antigravity AI IDE
 
-Analytics: Amplitude, Qualtrics, UserTesting
+Analytics: Amplitude, , UserTesting
 
 Development: React.js, JavaScript, HTML, Tailwind CSS, GitHub
 

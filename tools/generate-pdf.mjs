@@ -103,7 +103,7 @@ sectionHeader('Core Competencies');
 skillRow('UX & Research', ['User Research', 'Design Thinking', 'User Journey Mapping', 'Interaction Design', 'Usability Testing', 'A/B Testing', 'Design with AI', 'Design Systems', 'Information Architecture', 'Accessibility (WCAG)', 'End-to-End Product Design']);
 skillRow('Design Tools', ['Figma', 'Sketch', 'Adobe Illustrator', 'Magicpath', 'Miro']);
 skillRow('AI & Prototyping', ['Lovable', 'Figma Make', 'Antigravity AI IDE']);
-skillRow('Analytics', ['Amplitude', 'Qualtrics', 'UserTesting', 'Perplexity', 'Claude']);
+skillRow('Analytics', ['Amplitude', '', 'UserTesting', 'Perplexity', 'Claude']);
 skillRow('Development', ['React.js', 'JavaScript', 'HTML', 'Tailwind CSS', 'GitHub']);
 doc.y = doc.y + 2;
 
